@@ -9,4 +9,5 @@ int main() {
     std::cout << stemmer::stem_ru_string(s) << std::endl;
 
     return 0;
+    
 }
